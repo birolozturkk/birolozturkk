@@ -14,7 +14,6 @@
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
