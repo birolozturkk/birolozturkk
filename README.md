@@ -1,13 +1,12 @@
 # Hi, I'm Birol👋
 
-🎓 Computer Engineering Student | 💻 Developer | 🌍 Based in Turkey  
+🎓 Computer Engineering Student | 💻 Developer from Turkey
 
 ---
 
 ## 🚀 About Me
-- 🌱 Learning Java, Spring, and Web Development  
-- 🔭 Interested in backend systems & open-source  
-- 🎯 Goal: Becoming a full-stack developer  
+- 🌱 I'm developing AetherCaneLib and acFarmer
+- 🔭 Interested in backend systems & open-source
 
 ---
 
@@ -20,7 +19,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=birolozturkk&show_icons=true&theme=tokyonight)
 
 ---
 
