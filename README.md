@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I'm developing AetherCaneLib and acFarmer
+- 🌱 I'm developing [AetherCaneLib](https://github.com/AetherCane/AetherCaneLib) and acFarmer
 - 🔭 I'm Interested in backend systems & bukkit
 - 📫 Contact me: [your-email@example.com]  
 
@@ -21,6 +21,7 @@
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=birolozturkk&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birolozturkk&theme=tokyonight&layout=compact)](https://github.com/birolozturkk/github-readme-stats)
 
 ---
