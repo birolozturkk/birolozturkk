@@ -5,9 +5,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I'm developing [AetherCaneLib](https://github.com/AetherCane/AetherCaneLib) and acFarmer
+- 🌱 I'm developing [AetherCaneLib](https://github.com/AetherCane/AetherCaneLib) and **acFarmer**
 - 🔭 I'm Interested in backend systems & bukkit
-- 📫 Contact me: [your-email@example.com]  
+- 📫 Contact me: scropytr@gmail.com
 
 ---
 
