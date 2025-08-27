@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Birol👋
 
 🎓 Computer Engineering Student | 💻 Developer | 🌍 Based in Turkey  
 
