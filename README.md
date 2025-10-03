@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I'm developing [vLib](https://github.com/VanadyumDev/vLib) and **vFarmer**
+- 🌱 I'm currently developing [vLib](https://github.com/VanadyumDev/vLib) and **vFarmer**
 - 🔭 I'm Interested in backend systems & bukkit
 - 📫 Contact me: contact@birolozturk.com
 
