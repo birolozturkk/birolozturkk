@@ -5,7 +5,7 @@
 ---
 
 ## 👤 About Me
-- 🚀 I'm currently developing [vLib](https://github.com/VanadyumDev/vLib) and **vFarmer**
+- 🚀 I'm currently developing [vLib](https://github.com/VanadyumDev/vLib)
 - 🌱 I'm currently learning **C**
 - 🔭 I'm Interested in backend systems & bukkit
 
