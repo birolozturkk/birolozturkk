@@ -23,8 +23,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50"/>](https://maven.apache.org/)
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=birolozturkk&theme=tokyonight)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birolozturkk&theme=tokyonight)
 
 ---
