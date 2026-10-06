@@ -5,9 +5,8 @@
 ---
 
 ## 👤 About Me
-- 🚀 I'm currently developing [vLib](https://github.com/VanadyumDev/vLib)
-- 🌱 I'm currently learning **C**
-- 🔭 I'm Interested in backend systems & bukkit
+- 🌱 I'm currently learning **Machine Learning**
+- 🔭 I'm Interested in Deep Learning, Agentic AI
 
 - 📫 Contact me: contact@birolozturk.com
 
