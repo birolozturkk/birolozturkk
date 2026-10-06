@@ -5,8 +5,8 @@
 ---
 
 ## 👤 About Me
-- 🌱 I'm currently learning **Machine Learning**
-- 🔭 I'm Interested in Deep Learning, Agentic AI
+- 🌱 I'm currently learning **Agentic AI**
+- 🔭 I'm Interested in Machine Learning, Deep Learning
 
 - 📫 Contact me: contact@birolozturk.com
 
