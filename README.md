@@ -3,6 +3,7 @@
 🎓 Computer Engineering Student | 💻 Developer from Turkey
 
 ## 👤 About Me
+
 - 🌱 I'm currently learning **Agentic AI**
 - 🔭 I'm Interested in Machine Learning, Deep Learning
 
