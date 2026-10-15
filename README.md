@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-- 🌱 I'm currently learning **Agentic AI**
+- 🌱 I'm currently learning **GNN**
 - 🔭 I'm Interested in Machine Learning, Deep Learning
 
 - 📫 Contact me: contact@birolozturk.com
