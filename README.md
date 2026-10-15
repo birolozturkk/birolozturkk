@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning **GNN**
 - 🔭 I'm Interested in Machine Learning, Deep Learning
 
-- 📫 Contact me: contact@birolozturk.com
+- 📫 Contact me: ozturkkbirol@gmail.com
 
 ## 🛠️ Languages & Technologies
 
