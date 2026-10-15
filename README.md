@@ -11,7 +11,7 @@
 
 ## 🛠️ Languages & Technologies
 
-Programming Languages
+#### Programming Languages
 
 <p align="left">
   <a href="https://www.java.com/">
@@ -25,7 +25,7 @@ Programming Languages
   </a>
 </p>
 
-Backend Development & Databases
+#### Backend Development & Databases
 
 <p align="left">
   <a href="https://spring.io/">
@@ -48,7 +48,7 @@ Backend Development & Databases
   </a>
 </p>
 
-AI & Machine Learning
+#### AI & Machine Learning
 
 <p align="left">
   <a href="https://pytorch.org/">
@@ -68,7 +68,7 @@ AI & Machine Learning
   </a>
 </p>
 
-Tools & Development Environment
+#### Tools & Development Environment
 
 <p align="left">
   <a href="https://git-scm.com/">
