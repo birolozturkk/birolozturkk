@@ -10,7 +10,7 @@
 - 📫 Contact me: contact@birolozturk.com
 
 ---
-🛠️ Languages & Technologies
+## 🛠️ Languages & Technologies
 
 Programming Languages
 
