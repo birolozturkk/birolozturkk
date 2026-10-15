@@ -10,16 +10,6 @@
 - 📫 Contact me: contact@birolozturk.com
 
 ---
-
-## 🛠️ Languages And Technologies
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60"/>](https://www.java.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>](https://spring.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>](https://www.mysql.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50"/>](https://redis.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>](https://www.postgresql.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60"/>](https://www.sqlite.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50"/>](https://maven.apache.org/)
-
 🛠️ Languages & Technologies
 
 Programming Languages
@@ -97,6 +87,16 @@ Tools & Development Environment
 </p>
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=birolozturkk&theme=tokyonight)
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=birolozturkk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=birolozturkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ---
