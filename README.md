@@ -92,7 +92,11 @@
   alt="GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
+## Top Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=birolozturkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
