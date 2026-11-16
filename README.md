@@ -90,7 +90,7 @@
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birolozturkk&theme=tokyonight"
   alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birolzturkk&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=birolozturkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
