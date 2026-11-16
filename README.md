@@ -88,12 +88,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birolozturkk&theme=tokyonight"
-  alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight&langs_count=8" height="165" />
-</p>  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=birolozturkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=birolozturkk&theme=tokyonight&border_color=ffffff"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight&langs_count=8&border_color=ffffff"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 ---
