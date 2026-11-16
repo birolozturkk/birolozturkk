@@ -95,6 +95,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=birolozturkk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight)
 
 ---
 
