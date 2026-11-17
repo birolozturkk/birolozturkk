@@ -93,6 +93,12 @@
     alt="GitHub Stats"
     height="165"
   />
+  
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=birolozturkk&layout=compact&theme=tokyonight&langs_count=8&border_color=ffffff"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 ---
