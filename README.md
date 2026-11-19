@@ -5,7 +5,7 @@
 ## 👤 About Me
 
 - 🌱 I'm currently learning **GNN**
-- 🔭 I'm Interested in Machine Learning, Deep Learning and Statistics
+- 🔭 I'm Interested in Machine Learning, Deep Learning and AI Native Software Engineering
 
 - 📫 Contact me: ozturkkbirol@gmail.com
 
